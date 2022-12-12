@@ -19,7 +19,7 @@
 
 <br />
 
-Hi, I'm Hiamnshu Satija, a Frontend Developer 🚀 from India, currently, I'm a Frontend developer at 🙍🏽‍♂️ [@Anatta](https://github.com/anattadesign). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Hiamnshu Satija, a Frontend Developer 🚀 from India, currently, I'm a Frontend developer at 🙍🏽‍♂️ [@CRED](https://github.com/CRED). Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
